@@ -1,13 +1,13 @@
 # ULA 2 bits - Logisim
 
-**Unidade Lógica Aritmética** de 2 bits com as 4 operações básicas (+, -, *, /) implementada apenas com portas lógicas.
+**Unidade Lógica Aritmética de 2 bits** com as 4 operações básicas (+, -, *, /) implementada apenas com portas lógicas.
 
 **Disciplina:** Circuitos Digitais  
 **Aluno:** Radamés Marcellino Ferreira
 
 ---
 
-### Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 - ✅ Soma
 - ✅ Subtração
@@ -16,18 +16,18 @@
 
 ---
 
-### Arquivos do Projeto
+## Arquivos do Projeto
 
-- `ula-2bits.circ` → Circuito completo no Logisim
-- `Relatorio-ULA.pdf` → Relatório com tabelas verdadeiras e testes de cada operação
+- **[ula-2bits.circ](ula-2bits.circ)** → Circuito completo no Logisim
+- **[Relatorio-ULA.pdf](Relatorio-ULA.pdf)** → Relatório com tabelas verdadeiras e testes de cada operação
 
 ---
 
-### Como testar
+## Como testar
 
-1. Baixe o arquivo `ula-2bits.circ`
+1. Baixe o arquivo **[ula-2bits.circ](ula-2bits.circ)**
 2. Abra no Logisim
-3. Teste as operações usando as entradas A e B (2 bits cada)
+3. Teste as operações usando as entradas **A** e **B** (2 bits cada)
 
 ---
 
