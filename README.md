@@ -18,14 +18,14 @@
 
 ## Arquivos do Projeto
 
-- **[ula-2bits.circ](ula-2bits.circ)** → Circuito completo no Logisim
+- **[ula-2bits.circ](ula.circ)** → Circuito completo no Logisim
 - **[Relatorio-ULA.pdf](Relatorio-ULA.pdf)** → Relatório com tabelas verdadeiras e testes de cada operação
 
 ---
 
 ## Como testar
 
-1. Baixe o arquivo **[ula-2bits.circ](ula-2bits.circ)**
+1. Baixe o arquivo **[ula.circ](ula.circ)**
 2. Abra no Logisim
 3. Teste as operações usando as entradas **A** e **B** (2 bits cada)
 
