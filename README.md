@@ -19,7 +19,7 @@
 ## Arquivos do Projeto
 
 - **[ula.circ](ula.circ)** → Circuito completo no Logisim
-- **[Relatorio-ULA.pdf](PDF EXPLICATIVO.pdf)** → Relatório com tabelas verdadeiras e testes de cada operação
+- **[Relatorio-ULA.pdf]** → Relatório com tabelas verdadeiras e testes de cada operação
 
 ---
 
