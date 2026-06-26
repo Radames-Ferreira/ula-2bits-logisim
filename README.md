@@ -19,7 +19,7 @@
 ## Arquivos do Projeto
 
 - **[ula.circ](ula.circ)** → Circuito completo no Logisim
-- **[EXPLICATIVO.pdf]([EXPLICATIVO.pdf](https://github.com/Radames-Ferreira/ula-2bits-logisim/blob/main/PDF%20EXPLICATIVO.pdf))** → Relatório com tabelas verdadeiras e testes de cada operação
+- **[Pdf-explicativo.pdf](Pdf-explicativo.pdf)** → Relatório com tabelas verdadeiras e testes de cada operação
 
 ---
 
